@@ -1,6 +1,6 @@
 # Fingerprint Checker
 
-A high-performance Discord fingerprint analyzer that checks and categorizes fingerprints by age using multi-threading.
+A high-performance Discord fingerprint analyzer that checks and categorizes fingerprints by age using multi-threading. I am not held liable in case of any happenings.
 
 ## Credits
 
@@ -63,3 +63,4 @@ Enter number of threads: 500
 - Scales efficiently with larger thread counts
 - Real-time speed monitoring (fps counter)
 - Optimized buffer flushing for file I/O
+
