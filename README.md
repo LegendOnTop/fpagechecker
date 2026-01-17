@@ -4,7 +4,7 @@ A high-performance Discord fingerprint analyzer that checks and categorizes fing
 
 ## Credits
 
-Made by (@ai.legend.)[https://discord.com/users/766665610049486868]
+Made by [@ai.legend.](https://discord.com/users/766665610049486868)
 
 ## Features
 
@@ -63,5 +63,6 @@ Enter number of threads: 500
 - Scales efficiently with larger thread counts
 - Real-time speed monitoring (fps counter)
 - Optimized buffer flushing for file I/O
+
 
 
